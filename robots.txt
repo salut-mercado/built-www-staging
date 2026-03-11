@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /r
+Disallow: /r/
+
+Sitemap: https://www-staging.salutmercado.com/sitemap.xml
