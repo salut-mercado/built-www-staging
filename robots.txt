@@ -1,3 +1,14 @@
+User-Agent: GPTBot
+User-Agent: ChatGPT-User
+User-Agent: PerplexityBot
+User-Agent: ClaudeBot
+User-Agent: anthropic-ai
+User-Agent: Google-Extended
+User-Agent: Bingbot
+Allow: /
+Disallow: /r
+Disallow: /r/
+
 User-Agent: *
 Allow: /
 Disallow: /r
