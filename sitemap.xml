@@ -5,7 +5,7 @@
 <xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/" />
 <xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/" />
-<lastmod>2026-06-02T15:19:58.060Z</lastmod>
+<lastmod>2026-06-02T19:58:54.209Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -14,7 +14,7 @@
 <xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/" />
 <xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/" />
-<lastmod>2026-06-02T15:19:58.060Z</lastmod>
+<lastmod>2026-06-02T19:58:54.209Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1</priority>
 </url>
@@ -23,7 +23,7 @@
 <xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/blog" />
 <xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog" />
-<lastmod>2026-06-02T15:19:58.060Z</lastmod>
+<lastmod>2026-06-02T19:58:54.209Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -32,9 +32,36 @@
 <xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/blog" />
 <xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog" />
-<lastmod>2026-06-02T15:19:58.060Z</lastmod>
+<lastmod>2026-06-02T19:58:54.209Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
+</url>
+<url>
+<loc>https://www-staging.salutmercado.com/blog/calendario-verifactu</loc>
+<xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/blog/calendario-verifactu" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog/calendario-verifactu" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog/calendario-verifactu" />
+<lastmod>2026-05-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://www-staging.salutmercado.com/blog/problemas-licencias-copias-seguridad-tpv</loc>
+<xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/blog/problemas-licencias-copias-seguridad-tpv" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog/problemas-licencias-copias-seguridad-tpv" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog/problemas-licencias-copias-seguridad-tpv" />
+<lastmod>2026-05-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://www-staging.salutmercado.com/blog/riesgos-software-tpv-gratis-descargar</loc>
+<xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/blog/riesgos-software-tpv-gratis-descargar" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog/riesgos-software-tpv-gratis-descargar" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog/riesgos-software-tpv-gratis-descargar" />
+<lastmod>2026-05-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
 <loc>https://www-staging.salutmercado.com/blog/efficiency-vs-waste-how-ai-saves-margins-in-retail</loc>
@@ -60,6 +87,33 @@
 <xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog/understanding-shrinkage-in-grocery" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog/understanding-shrinkage-in-grocery" />
 <lastmod>2026-01-28T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://www-staging.salutmercado.com/en/blog/calendario-verifactu</loc>
+<xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/blog/calendario-verifactu" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog/calendario-verifactu" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog/calendario-verifactu" />
+<lastmod>2026-05-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://www-staging.salutmercado.com/en/blog/problemas-licencias-copias-seguridad-tpv</loc>
+<xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/blog/problemas-licencias-copias-seguridad-tpv" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog/problemas-licencias-copias-seguridad-tpv" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog/problemas-licencias-copias-seguridad-tpv" />
+<lastmod>2026-05-18T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://www-staging.salutmercado.com/en/blog/riesgos-software-tpv-gratis-descargar</loc>
+<xhtml:link rel="alternate" hreflang="es-ES" href="https://www-staging.salutmercado.com/blog/riesgos-software-tpv-gratis-descargar" />
+<xhtml:link rel="alternate" hreflang="en-US" href="https://www-staging.salutmercado.com/en/blog/riesgos-software-tpv-gratis-descargar" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://www-staging.salutmercado.com/blog/riesgos-software-tpv-gratis-descargar" />
+<lastmod>2026-05-18T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
