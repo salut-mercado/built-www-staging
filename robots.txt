@@ -1,16 +1,34 @@
 User-Agent: GPTBot
 User-Agent: ChatGPT-User
 User-Agent: PerplexityBot
+User-Agent: Perplexity-User
 User-Agent: ClaudeBot
+User-Agent: Claude-SearchBot
 User-Agent: anthropic-ai
 User-Agent: Google-Extended
+User-Agent: CCBot
+User-Agent: Bytespider
+User-Agent: Diffbot
+User-Agent: cohere-ai
+User-Agent: Meta-ExternalAgent
+User-Agent: FacebookBot
+User-Agent: Amazonbot
+User-Agent: Applebot-Extended
 User-Agent: Bingbot
 Allow: /
+Disallow: /download
+Disallow: /download/
+Disallow: /en/download
+Disallow: /en/download/
 Disallow: /r
 Disallow: /r/
 
 User-Agent: *
 Allow: /
+Disallow: /download
+Disallow: /download/
+Disallow: /en/download
+Disallow: /en/download/
 Disallow: /r
 Disallow: /r/
 
