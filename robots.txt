@@ -16,19 +16,27 @@ User-Agent: Amazonbot
 User-Agent: Applebot-Extended
 User-Agent: Bingbot
 Allow: /
+Disallow: /diagnostics
+Disallow: /diagnostics/
 Disallow: /download
 Disallow: /download/
 Disallow: /en/download
 Disallow: /en/download/
+Disallow: /en/diagnostics
+Disallow: /en/diagnostics/
 Disallow: /r
 Disallow: /r/
 
 User-Agent: *
 Allow: /
+Disallow: /diagnostics
+Disallow: /diagnostics/
 Disallow: /download
 Disallow: /download/
 Disallow: /en/download
 Disallow: /en/download/
+Disallow: /en/diagnostics
+Disallow: /en/diagnostics/
 Disallow: /r
 Disallow: /r/
 
