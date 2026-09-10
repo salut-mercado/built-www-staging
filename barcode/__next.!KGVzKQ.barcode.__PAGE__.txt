@@ -2,5 +2,5 @@
 2:"$Sreact.suspense"
 3:I[45395,["/_next/static/chunks/11pxcm9vf-ltl.js","/_next/static/chunks/17c4zxcyhpex_.js","/_next/static/chunks/01l~pfb21umfw.js"],"BarcodeExperience"]
 4:I[95152,["/_next/static/chunks/02zl584o4ogjy.js","/_next/static/chunks/0-yl4pf~ypy-x.js"],"OutletBoundary"]
-0:{"rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/17c4zxcyhpex_.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/01l~pfb21umfw.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gFG90kfGCYwJotnmveTyr"}
+0:{"rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":null,"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/17c4zxcyhpex_.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/01l~pfb21umfw.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"27rHww6e99ngGEcIDrNb7"}
 5:null
