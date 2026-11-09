@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/0jfnk6cd-b8l4.css","style"]
+:HL["/_next/static/chunks/429il86kq2lk8.css","style"]
+:HL["/_next/static/media/75cb990346c55dc4-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a6fd56cd89ea0e72-s.p.1hij5ex6k3v9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"slug","t":"d","k":"tpv-sin-internet-supermercado","s":[]},"h":96,"c":"$Q5"}]]
+3:[["children",{"s":"blog","h":96,"c":"$Q4"}]]
+2:[["children",{"s":"en","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(en)","h":112,"c":"$Q2"}]]
+0:{"b":"J80JGTVmlL_X38mvWVn0-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
